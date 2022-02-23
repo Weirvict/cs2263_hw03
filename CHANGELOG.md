@@ -7,6 +7,8 @@ Then pushing everything to GitHub.
 
 ****
 
-## 2-23-22
-* Verfying that everything is working and written well. Updating changes and recording it this log. 
+## [v0.0.1] 2-23-22
+* Verfying that everything is working and written well. 
+* Updating changes and recording it this log.
+* Added more description in README 
 
