@@ -9,8 +9,8 @@ In this project, it allows the user to use the program to view courses from the 
 ***
 
 ## Usage
-* To view and search for classes in the six departments:
-** Computer Science, Mathematics, Chemistry, Physics, Biology, and Electrical Engineering
+To view and search for classes in the six departments:
+- Computer Science, Mathematics, Chemistry, Physics, Biology, and Electrical Engineering
 
 ***
 
