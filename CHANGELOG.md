@@ -12,3 +12,13 @@ Then pushing everything to GitHub.
 * Updating changes and recording it this log.
 * Added more description in README 
 
+***
+
+## [Unreleased] 2-23-22
+* Added gradle as a Java Application
+* Added plugin Javadoc under docs
+* Added plugin for license management
+* Added JavaFX
+* Added Gson Dependency
+
+***
