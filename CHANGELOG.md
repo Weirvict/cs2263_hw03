@@ -22,3 +22,7 @@ Then pushing everything to GitHub.
 * Added Gson Dependency
 
 ***
+##[v0.1.0] 2-27-22
+* Added UML design
+* Added Project
+* Fixed and Tried to have it work
