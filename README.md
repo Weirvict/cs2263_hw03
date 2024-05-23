@@ -1,4 +1,4 @@
-# cs2263_03
+# View Courses From Six Departments
 In this project, it allows the user to use the program to view courses from the six departments: Computer Science, Mathematics, Chemistry, Physics, Biology, and Electrical Engineering.
 
 ***
